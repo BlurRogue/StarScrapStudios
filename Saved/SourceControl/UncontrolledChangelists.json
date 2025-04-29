@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/joeyc/OneDrive/Documents/Unreal Projects/Starscrap/StarScrapStudios/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/joeyc/OneDrive/Documents/Unreal Projects/Starscrap/StarScrapStudios/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/joeyc/OneDrive/Documents/Unreal Projects/Starscrap/StarScrapStudios/Content/Assets/InteriorDesign/Computer_Desk/Computer_Desk.uasset",
+				"C:/Users/joeyc/OneDrive/Documents/Unreal Projects/Starscrap/StarScrapStudios/Content/Assets/InteriorDesign/Computer_Desk/standardSurface1.uasset"
 			]
 		}
 	]
