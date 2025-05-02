@@ -11,21 +11,18 @@ GAME GOALS EVALUATION:
 -Tutorial Level is polished
 -Game includes two new levels
 	-New levels feature new content.
--Game has _____ new puzzles.
+-Game has 4 new puzzles.
 	-PUZZLE STAND
 		-A quick time event where the player must put in inputs according to the criteria before the time runs out. Must succeed 3 times.
 		-Found in Level 1.
 	-TRIPLE KEY LOCK
 		-A puzzle where the player must find and locate 3 or more keys in order to unlock.
 		-Found in Level 0.
-	-ACCESS CONTROL PANEL
-		-A puzzle where ______.
-		-Found in Level 2.
-	-CODE SEQUENCER
-		-A puzzle where ______.
-		-Found in Level 2.
-	-BOSS SEQUENCE
-		-A puzzle where ______.
+    -ACCESS CONTROL PANEL
+        -A puzzle where Players must interact in order to open the door to the final room..
+        -Found in Level 2.
+	-HIEROGLYPHICS PUZZLE
+		-A puzzle where Players must solve to open the shield of the nuclear battery.
 		-Found in Level 2.
 -Game has newly made textures and assets.
 	-Walls, Doors have new materials
@@ -186,7 +183,11 @@ LEVEL 0//ROOM 4:
 	- Enters code [9h 30min] by spinning LARGE HAND 9 times, and spinning SMALL HAND 6 times.
 	- Pick up ANIMAL PLUSH - BUNNY
 -Player walks to other side of room. Notes locked door and wire puzzle. 
-[PAN ENTER INSTRUCTION HERE]
+-Player walks to the other side of the room. 
+-   Notes locked door and wire puzzle. 
+-The player finds that a locked door needs electricity to open. To power it, the red and green wires need to be connected to the purple wire. 
+-The player can change the line by rotating each block. Player presses E to interact with each block.After the connection, the door opens.
+    -Puzzle Solution: https://drive.google.com/file/d/1AeCjwxTpwdJ1PhSQSnZBbjP5R8M3Hb_5/view?usp=sharing 
 
 LEVEL 0//ROOM 5:
 -Player is in Storage Room.
@@ -298,10 +299,23 @@ LEVEL 1//ROOM 9:
 
 ///LEVEL 2///Final Room
 -Player is in Final Room.
--Player Solve Hieroglyphics Puzzle.
--Player get nuclear battery, Bruin came in the Room.
--Engage Boss Fight
-
+-Player notices Nuclear Reactor that powers the external module preventing you from returning to the ship.
+-Player must solve HIEROGLYPHICS PUZZLE in order to decouple the reactor.
+    -The player finds the first pattern on the doorframe behind them as they enter the room.
+    -The player finds the second pattern in the upper right corner of the room.
+    -The player finds the third pattern by finding a specific angle at the pillar in the upper left corner of the room.
+    -The player looks around finds the fourth pattern outside the porthole to the left of the entrance.
+    -Player steps on correct four answers.
+    -Player Solve Hieroglyphics Puzzle.
+    -Exact Puzzle Solution: https://drive.google.com/file/d/12ZtgPX63EdGzhW5k-TthB50Vd77Si7JA/view?usp=sharing
+-The glass hatch protecting the nuclear battery opened. 
+-The player approaches the nuclear battery and presses E to collect it.
+-Bruin senses that the ship is losing energy and comes to the final room to look for it.
+-Engage Boss Fight.
+    -Player relents at the futility at trying to defeat Bruin.
+    -Player is tired.
+    -Player gives up.
+    -Player exits the editor by pressing F1, and writes an angry review to the Steam Webstore.
 
 
 
